@@ -1,0 +1,4 @@
+A simple snake game in java using javafx
+
+Using various Data structures like ArrayList and linkedList
+____________________________________________________________________________________________________
